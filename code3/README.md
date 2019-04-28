@@ -1,6 +1,6 @@
 # 数据的降维
 
-![例图](https://github.com/zhouf00/python-DataStudy/raw/master/video_LM/image/d3.1.png)
+![例图](https://github.com/zhouf00/video-190420/raw/master/video_LM/image/d3.1.png)
 
 ### 1.特征选择
 
@@ -48,7 +48,7 @@ VarianceThreshold(threshold=0.0)
 	[[0, 2, 0, 3],
      [0, 1, 4, 3],
      [0, 1, 1, 3]]
-[练习1代码](https://github.com/zhouf00/python-DataStudy/blob/master/video_LM/code3/3.1VarianceThreshold.py) 
+[练习1代码](https://github.com/zhouf00/video-190420/blob/master/video_LM/code3/3.1VarianceThreshold.py) 
 
 **其它牲选择方法**
 
@@ -73,9 +73,9 @@ VarianceThreshold(threshold=0.0)
 
 特征之间通常是相关的
 
-![二维简化成一维](https://github.com/zhouf00/python-DataStudy/raw/master/video_LM/image/d3.2.png)
+![二维简化成一维](https://github.com/zhouf00/video-190420/raw/master/video_LM/image/d3.2.png)
 
-![PCA公式](https://github.com/zhouf00/python-DataStudy/raw/master/video_LM/image/d3.3.png)
+![PCA公式](https://github.com/zhouf00/video-190420/raw/master/video_LM/image/d3.3.png)
 
 
 > ### PCA语法
@@ -99,7 +99,7 @@ n_components：<br>小数： 0~1 建议90%-95% <br>整数：减少到的特征�
 	[[2, 8, 4, 5],
      [6, 4, 0, 8],
      [5, 4, 9, 1]]
-[练习2代码](https://github.com/zhouf00/python-DataStudy/blob/master/video_LM/code3/3.2PCA.py) 
+[练习2代码](https://github.com/zhouf00/video-190420/blob/master/video_LM/code3/3.2PCA.py) 
 
 **练习3**
 
@@ -108,7 +108,7 @@ n_components：<br>小数： 0~1 建议90%-95% <br>整数：减少到的特征�
 	products.csv  			  商品信息
 	orders.csv				  用户的订单信息
 	aisles.csv				  商品所属具体物品类别
-[练习3代码](https://github.com/zhouf00/python-DataStudy/blob/master/video_LM/code3/3.3MarketBasket.py) 
+[练习3代码](https://github.com/zhouf00/video-190420/blob/master/video_LM/code3/3.3MarketBasket.py) 
 
 **特征选择与主成分分析的比较**
 
