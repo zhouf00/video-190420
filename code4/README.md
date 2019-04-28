@@ -11,7 +11,7 @@
 
 > ## 转换器
 
-![转换器](https://github.com/zhouf00/video-190420/raw/master/video_LM/image/d47.png)
+![转换器](https://github.com/zhouf00/video-190420/raw/master/image/d47.png)
 
 > ## sklearn机器学习算法的实现-估计器
 
@@ -28,7 +28,7 @@
 
 > ## k-近邻算法以及案例预测入住位置
 
-**[k-近邻算法代码](https://github.com/zhouf00/video-190420/blob/master/video_LM/code4/4_k_neighbors.py)**
+**[k-近邻算法代码](https://github.com/zhouf00/video-190420/blob/master/code4/4_k_neighbors.py)**
 
 > ## 决策树
 
@@ -43,6 +43,6 @@
 		method：
 		decision_path：返回决策树的路径
 
-![决策树](https://github.com/zhouf00/video-190420/raw/master/video_LM/image/d48.png)
+![决策树](https://github.com/zhouf00/video-190420/raw/master/image/d48.png)
 
-**[决策树代码](https://github.com/zhouf00/video-190420/blob/master/video_LM/code4/4_tree.py)**
+**[决策树代码](https://github.com/zhouf00/video-190420/blob/master/code4/4_tree.py)**

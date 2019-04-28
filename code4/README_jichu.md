@@ -25,7 +25,7 @@
 
 > ## 机器算法的差别依据
 
-![数据区别](https://github.com/zhouf00/video-190420/raw/master/video_LM/image/d41.png)
+![数据区别](https://github.com/zhouf00/video-190420/raw/master/image/d41.png)
 
 **数据类型**
 	
@@ -38,11 +38,11 @@
 
 数据的类型将是机器学习模型不同问题不同处理的依据
 
-![类型1](https://github.com/zhouf00/video-190420/raw/master/video_LM/image/d42.png)
+![类型1](https://github.com/zhouf00/video-190420/raw/master/image/d42.png)
 
-![类型2](https://github.com/zhouf00/video-190420/raw/master/video_LM/image/d43.png)
+![类型2](https://github.com/zhouf00/video-190420/raw/master/image/d43.png)
 
-![类型3](https://github.com/zhouf00/video-190420/raw/master/video_LM/image/d44.png)
+![类型3](https://github.com/zhouf00/video-190420/raw/master/image/d44.png)
 
 > ## 机器学习算法分类
 
@@ -62,7 +62,7 @@
 
 
 
-![类型4](https://github.com/zhouf00/video-190420/raw/master/video_LM/image/d45.png)
+![类型4](https://github.com/zhouf00/video-190420/raw/master/image/d45.png)
 
 **分类问题的概念**
 
@@ -87,4 +87,4 @@
 
 **机器学习开发流程**
 
-![流程4](https://github.com/zhouf00/video-190420/raw/master/video_LM/image/d46.png)
+![流程4](https://github.com/zhouf00/video-190420/raw/master/image/d46.png)

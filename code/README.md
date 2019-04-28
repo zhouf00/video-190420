@@ -34,9 +34,9 @@
          {"city": "上海", "temperture": 200}, 
          {"city": "深圳", "temperture": 30}]
 		
-	[练习题1代码](https://github.com/zhouf00/video-190420/blob/master/video_LM/code/1.1%E6%96%87%E6%9C%AC%E7%89%B9%E5%BE%81%E6%8A%BD%E5%8F%96.py)
+	[练习题1代码](https://github.com/zhouf00/video-190420/blob/mastercode/1.1%E6%96%87%E6%9C%AC%E7%89%B9%E5%BE%81%E6%8A%BD%E5%8F%96.py)
 
-	![image](https://github.com/zhouf00/video-190420/raw/master/video_LM/image/note3.png)
+	![image](https://github.com/zhouf00/video-190420/raw/masterimage/note3.png)
 
 	> ## CountVectorizer语法
 
@@ -65,9 +65,9 @@
 
 		["life  is is short, i like python", 
 		"life is too long, i dislike python"]
-	[练习题2代码](https://github.com/zhouf00/video-190420/blob/master/video_LM/code/1.2%E6%96%87%E6%9C%AC%E7%89%B9%E5%BE%81%E6%8A%BD%E5%8F%96.py)
+	[练习题2代码](https://github.com/zhouf00/video-190420/blob/mastercode/1.2%E6%96%87%E6%9C%AC%E7%89%B9%E5%BE%81%E6%8A%BD%E5%8F%96.py)
 
-	![image](https://github.com/zhouf00/video-190420/raw/master/video_LM/image/note1.png)
+	![image](https://github.com/zhouf00/video-190420/raw/masterimage/note1.png)
 
 	> ## jieba分词
 
@@ -85,7 +85,7 @@
 		这样当我们看到宇宙时，我们是在看它的过去
 		3、如果只用一种方式了解某样事物，你就不会真正了解它。
 		了解事物真正含义的秘密取决于如何将其与我们所了解的事物相联系
-	[练习题3代码](https://github.com/zhouf00/video-190420/blob/master/video_LM/code/1.3%E6%96%87%E6%9C%AC%E7%89%B9%E5%BE%81%E6%8A%BD%E5%8F%96_%E4%B8%AD%E6%96%87%E5%A4%84%E7%90%86.py)
+	[练习题3代码](https://github.com/zhouf00/video-190420/blob/mastercode/1.3%E6%96%87%E6%9C%AC%E7%89%B9%E5%BE%81%E6%8A%BD%E5%8F%96_%E4%B8%AD%E6%96%87%E5%A4%84%E7%90%86.py)
 
 	> ## TF-IDF
 	
@@ -111,4 +111,4 @@
 	**练习题4**
 
 		练习三基础上进行tfidf处理
-	[练习题4代码](https://github.com/zhouf00/video-190420/blob/master/video_LM/code/1.4Tfidf.py)
+	[练习题4代码](https://github.com/zhouf00/video-190420/blob/mastercode/1.4Tfidf.py)

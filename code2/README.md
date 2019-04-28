@@ -22,9 +22,9 @@
 
 **类：sklearn.preprocessing**	
 <br>
-![归一化](https://github.com/zhouf00/video-190420/raw/master/video_LM/image/1.png)
+![归一化](https://github.com/zhouf00/video-190420/raw/master/image/1.png)
 <br>
-![归一化](https://github.com/zhouf00/video-190420/raw/master/video_LM/image/2.png)
+![归一化](https://github.com/zhouf00/video-190420/raw/master/image/2.png)
 <br>
 
 > ## sklearn归一化API
@@ -50,7 +50,7 @@
 	[[90, 2, 10, 40],
  	[60, 4, 15, 45],
  	[75, 3, 13, 46]]
-[练习1代码](https://github.com/zhouf00/video-190420/blob/master/video_LM/code2/2.1MinMaxScalar.py)
+[练习1代码](https://github.com/zhouf00/video-190420/blob/master/code2/2.1MinMaxScalar.py)
 
 **练习2**
 
@@ -61,7 +61,7 @@
 		里程数		公升数		消耗时间比			评价
 		14488		7.153469	1.673904			smalldoses
 		26052		1441871		0.805124			didntLike
-[练习2代码](https://github.com/zhouf00/video-190420/blob/master/video_LM/code2/2.2MinMaxScalar.py)
+[练习2代码](https://github.com/zhouf00/video-190420/blob/master/code2/2.2MinMaxScalar.py)
 
 **归一化总结**
 	
@@ -72,9 +72,9 @@
 	对于归一化来说：如果出现异常点，影响了最大值和最小值，那么结果显然会发生改变
 	对于标准化来说：如果出现异常点，由于具有一定数据量，少量的异常点对于平均值的影响并不大，从而方差改变较小 
 
-![结合归一化谈标准化](https://github.com/zhouf00/video-190420/raw/master/video_LM/image/4.png)
+![结合归一化谈标准化](https://github.com/zhouf00/video-190420/raw/master/image/4.png)
 <br>
-![标准化公式](https://github.com/zhouf00/video-190420/raw/master/video_LM/image/3.png)
+![标准化公式](https://github.com/zhouf00/video-190420/raw/master/image/3.png)
 <br>
 
 > ## sklearn标准化API
@@ -102,4 +102,4 @@
 	[[1., -1., 3.],
      [2., 3., 2.],
      [4., 6., -1.]]
-[练习3代码](https://github.com/zhouf00/video-190420/blob/master/video_LM/code2/2.3StandarScaler.py)
+[练习3代码](https://github.com/zhouf00/video-190420/blob/master/code2/2.3StandarScaler.py)
