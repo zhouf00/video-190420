@@ -50,7 +50,7 @@ VarianceThreshold(threshold=0.0)
      [0, 1, 1, 3]]
 [练习1代码](https://github.com/zhouf00/video-190420/blob/master/code3/3.1VarianceThreshold.py) 
 
-**其它牲选择方法**
+**其它特征选择方法**
 
 神经网络
 
